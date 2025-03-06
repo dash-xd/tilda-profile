@@ -28,3 +28,5 @@ tilda-profile() {
 tilda-profile --load laptop-only                # sets to "laptop-only" profile
 tilda-profile --load extend-left-1080p    # sets to "extend-left-1080p" profile
 ```
+
+load works from within a tilda shell. it kills all existing tilda shells, then you can open the new tilda instances with your preset tilda keyboard shortcut.
