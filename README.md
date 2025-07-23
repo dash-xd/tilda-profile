@@ -1,7 +1,7 @@
 # tilda-profile
 a bash script wrapper for saving and changing configurations for tilda terminal, inspired by: https://github.com/lanoxx/tilda/issues/429
 
-1. save tilda-profile.sh in a directory like ~/.scripts/ and make it executable, and create ~/.config/tilda/profiles directory exists
+1. save tilda-profile.sh in a directory like ~/.scripts/ and make it executable, make sure ~/.config/tilda/profiles directory exists
 2. in your .bashrc or .bash_aliases file add something like:
 
 ```
